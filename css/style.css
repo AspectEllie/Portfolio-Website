@@ -66,7 +66,7 @@ nav a:hover {
   align-items: center;
   position: relative;
   z-index: 1; 
-  padding: 100px;
+  padding: 20px;
 }
 
 /* Sets the size of the profile image */
@@ -209,7 +209,7 @@ padding: 10px;
   }
 
   .profile-image-container {
-    width: fit-content;
+    width: 50%;
     height: auto;
   }
 
